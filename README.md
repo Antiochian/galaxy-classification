@@ -22,7 +22,7 @@ The data needs to be normalised to approx. the 0-1 range and centralised before 
 Misc
 -----
 
-If you want to run the program, you'll need a hefty few dependencies, but you can just hit "run" and it should all work fine.
+If you want to run the program, you'll need a hefty few dependencies, but you can just hit "run" and it should all work fine. You can run the "get_images.py" file to automatically download all the training/testing data required.
 
 
 
